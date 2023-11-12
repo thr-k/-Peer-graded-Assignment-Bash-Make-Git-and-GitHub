@@ -1,8 +1,7 @@
 all: README.md
 
 README.md: guessinggame.sh
-	echo "# The Unix Workbench, Project name is:" > README.md
-	echo "# Peer-graded Assignment: Bash, Make, Git, and GitHub" >> README.md
+	echo "# Peer-graded Assignment: Bash, Make, Git, and GitHub" > README.md
 
 	echo "" >> README.md
 
